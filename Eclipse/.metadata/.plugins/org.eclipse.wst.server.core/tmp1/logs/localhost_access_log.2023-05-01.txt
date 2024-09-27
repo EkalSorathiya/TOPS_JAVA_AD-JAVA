@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [01/May/2023:16:28:02 +0530] "GET /Organic_Mart/login.jsp HTTP/1.1" 200 13707
+0:0:0:0:0:0:0:1 - - [01/May/2023:16:28:13 +0530] "POST /Organic_Mart/UserController HTTP/1.1" 500 1364
+0:0:0:0:0:0:0:1 - - [01/May/2023:16:30:25 +0530] "GET /Organic_Mart/UserController HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [01/May/2023:16:31:02 +0530] "GET /Organic_Mart/login.jsp HTTP/1.1" 200 13707
+0:0:0:0:0:0:0:1 - - [01/May/2023:16:31:04 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/May/2023:16:31:08 +0530] "POST /Organic_Mart/UserController HTTP/1.1" 500 1364
+0:0:0:0:0:0:0:1 - - [01/May/2023:16:35:13 +0530] "POST /Organic_Mart/UserController HTTP/1.1" 500 1364
+0:0:0:0:0:0:0:1 - - [01/May/2023:20:01:06 +0530] "GET /Organic_Mart/login.jsp HTTP/1.1" 200 13707
+0:0:0:0:0:0:0:1 - - [01/May/2023:20:01:07 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/May/2023:20:01:55 +0530] "POST /Organic_Mart/UserController HTTP/1.1" 500 1364

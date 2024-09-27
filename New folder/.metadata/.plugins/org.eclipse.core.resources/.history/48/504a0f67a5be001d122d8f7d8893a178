@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author IPSS
+ *
+ */
+module CoreJava {
+	requires java.desktop;
+}

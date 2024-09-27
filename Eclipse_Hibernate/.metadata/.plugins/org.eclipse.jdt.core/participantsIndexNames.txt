@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+F:\Tops\Eclipse_Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\192589377.index
+\SpringORM\src\main\resources
+F:\Tops\Eclipse_Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3140256851.index
+\com.hibernateApp\src\main\resources
+F:\Tops\Eclipse_Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4237313757.index
+\com.onetoone\src\main\resources

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="s1" class="com.spring.SpringLifeCycle.Student" abstract="true">
+	<property name="email" value="ekal@gmail.com"/>
+</bean>
+
+<bean id="s2" class="com.spring.SpringLifeCycle.Student" parent="s1">
+	<property name="fname" value="Ekal"/>
+	<property name="lname" value="Sorathiya"/>
+</bean>
+
+</beans>

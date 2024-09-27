@@ -1,0 +1,73 @@
+4:22:10 PM  [main] 	Initializing Control Panel
+4:22:10 PM  [main] 	Windows Version:  Home  64-bit
+4:22:10 PM  [main] 	XAMPP Version: 8.2.0
+4:22:10 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+4:22:10 PM  [main] 	You are not running with administrator rights! This will work for
+4:22:10 PM  [main] 	most application stuff but whenever you do something with services
+4:22:10 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:22:10 PM  [main] 	about running this application with administrator rights!
+4:22:10 PM  [main] 	XAMPP Installation Directory: "f:\tops\xamp\"
+4:22:10 PM  [main] 	Checking for prerequisites
+4:22:11 PM  [main] 	All prerequisites found
+4:22:11 PM  [main] 	Initializing Modules
+4:22:11 PM  [main] 	Starting Check-Timer
+4:22:11 PM  [main] 	Control Panel Ready
+4:22:14 PM  [Apache] 	Status change detected: running
+4:22:24 PM  [mysql] 	Status change detected: running
+4:22:31 PM  [mysql] 	Status change detected: stopped
+4:22:31 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+4:22:31 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+4:22:31 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+4:22:31 PM  [mysql] 	Press the Logs button to view error logs and check
+4:22:31 PM  [mysql] 	the Windows Event Viewer for more clues
+4:22:31 PM  [mysql] 	If you need more help, copy and post this
+4:22:31 PM  [mysql] 	entire log window on the forums
+4:44:41 PM  [mysql] 	Status change detected: running
+4:44:44 PM  [mysql] 	Status change detected: stopped
+4:44:44 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+4:44:44 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+4:44:44 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+4:44:44 PM  [mysql] 	Press the Logs button to view error logs and check
+4:44:44 PM  [mysql] 	the Windows Event Viewer for more clues
+4:44:44 PM  [mysql] 	If you need more help, copy and post this
+4:44:44 PM  [mysql] 	entire log window on the forums
+4:54:25 PM  [main] 	Deinitializing Modules
+4:54:25 PM  [main] 	Deinitializing Control Panel
+
+4:44:36 PM  [main] 	Initializing Control Panel
+4:44:36 PM  [main] 	Windows Version:  Home  64-bit
+4:44:36 PM  [main] 	XAMPP Version: 8.2.0
+4:44:36 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+4:44:36 PM  [main] 	You are not running with administrator rights! This will work for
+4:44:36 PM  [main] 	most application stuff but whenever you do something with services
+4:44:36 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:44:36 PM  [main] 	about running this application with administrator rights!
+4:44:36 PM  [main] 	XAMPP Installation Directory: "f:\tops\xamp\"
+4:44:37 PM  [main] 	Checking for prerequisites
+4:44:37 PM  [main] 	All prerequisites found
+4:44:37 PM  [main] 	Initializing Modules
+4:44:37 PM  [Apache] 	XAMPP Apache is already running on port 80
+4:44:37 PM  [Apache] 	XAMPP Apache is already running on port 443
+4:44:37 PM  [main] 	Starting Check-Timer
+4:44:37 PM  [main] 	Control Panel Ready
+4:44:40 PM  [mysql] 	Attempting to start MySQL app...
+4:44:41 PM  [mysql] 	Status change detected: running
+4:44:44 PM  [mysql] 	Status change detected: stopped
+4:44:44 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+4:44:44 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+4:44:44 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+4:44:44 PM  [mysql] 	Press the Logs button to view error logs and check
+4:44:44 PM  [mysql] 	the Windows Event Viewer for more clues
+4:44:44 PM  [mysql] 	If you need more help, copy and post this
+4:44:44 PM  [mysql] 	entire log window on the forums
+4:54:24 PM  [Apache] 	Status change detected: stopped
+4:54:26 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+4:54:26 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+4:54:26 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+4:54:26 PM  [Apache] 	Press the Logs button to view error logs and check
+4:54:26 PM  [Apache] 	the Windows Event Viewer for more clues
+4:54:26 PM  [Apache] 	If you need more help, copy and post this
+4:54:26 PM  [Apache] 	entire log window on the forums
+4:54:26 PM  [main] 	Deinitializing Modules
+4:54:26 PM  [main] 	Deinitializing Control Panel
+
